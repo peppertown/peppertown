@@ -1,6 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/97f821e6-0d98-4c60-ba14-3c240d2bc129)
 
-![Image](https://github.com/user-attachments/assets/a6581c5b-a309-485c-a69c-1db4d3b8766c)
+![Image](https://github.com/user-attachments/assets/079bbeb5-f476-4bd7-8860-f7287b6c51bd)
 <!--
 **peppertown/peppertown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
